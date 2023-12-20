@@ -11,7 +11,7 @@ welcome
 profile 
 add 
 parent 
-action 
+action a
 import 
 edit 
 delete 
